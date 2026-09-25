@@ -23,38 +23,12 @@ instant.
 
 ## 📸 Screenshots
 
-<!-- ![Main window](screenshots/empty-board.png)
-![Solver in action](screenshots/solution-1.png)
-![Load a saved puzzle](screenshots/loaded-puzzle.png)
-
-<figure>
-  <img src="screenshots/empty-board.png" alt="Main window" width="600"/>
-  <figcaption>The main editor window.</figcaption>
-</figure> -->
-
-<!-- <figure>
-  <img src="screenshots/empty-board.png" alt="Empty board" width="600"/>
-  <figcaption>The main editor window with an empty board.</figcaption>
-</figure>
-
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="screenshots/solution-1.png" alt="Solving a puzzle" width="360"/>
-    <figcaption>Solving a custom puzzle.</figcaption>
-  </figure>
-  <figure style="margin: 0; text-align: center;">
-    <img src="screenshots/loaded-puzzle.png" alt="Loaded puzzle" width="360"/>
-    <figcaption>Loading a saved puzzle.</figcaption>
-  </figure>
-</div> -->
-
-
 <table>
   <tr>
     <td colspan="2" align="center">
       <figure>
         <img
-          src="screenshots/empty-board.png"
+          src="Screenshots/empty-board.png"
           alt="Empty board"
           width="720"
         />
@@ -68,7 +42,7 @@ instant.
   <tr>
     <td align="center">
       <img
-        src="screenshots/solution-1.png"
+        src="Screenshots/solution-1.png"
         alt="Solving a puzzle"
         width="360"
       />
@@ -77,7 +51,7 @@ instant.
     </td>
     <td align="center">
       <img
-        src="screenshots/loaded-puzzle.png"
+        src="Screenshots/loaded-puzzle.png"
         alt="Loaded puzzle"
         width="360"
       />
