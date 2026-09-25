@@ -112,6 +112,7 @@ python ui.py
 
 
 lonpos-solver/
+
 ├── ui.py                     # GUI (CustomTkinter)
 
 ├── solver.py                 # Backtracking engine
