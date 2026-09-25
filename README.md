@@ -113,13 +113,21 @@ python ui.py
 
 lonpos-solver/
 ├── ui.py                     # GUI (CustomTkinter)
+
 ├── solver.py                 # Backtracking engine
+
 ├── pieces.py                 # 12 piece definitions + rotation + placement generation
+
 ├── cache.py                  # Solution cache (read/write)
+
 ├── puzzle.json               # Saved puzzle (optional)
+
 ├── solutions_cache.jsonl     # Solution cache (auto-generated)
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 
